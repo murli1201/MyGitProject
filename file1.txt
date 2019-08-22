@@ -2,15 +2,18 @@ This is file1...!
 
 class myclass{
 
-private myMethod(
+
+
+private static myMethod(
 {
-  System.out.println("str");
+  System.out.println("Hello World....Murli);
+
 }
 
 
 ygygygy7gty
 public static void main(){
-   
+   myMethod();
 }
 
 
