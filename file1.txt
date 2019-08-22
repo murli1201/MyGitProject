@@ -4,7 +4,7 @@ class myclass{
 
 
 
-private static myMethod(
+private  myMethod(
 {
   System.out.println("Hello World....Murli);
 
@@ -13,7 +13,8 @@ private static myMethod(
 
 ygygygy7gty
 public static void main(){
-   myMethod();
+myClass obj=new myClass();
+   obj.myMethod();
 }
 
 
