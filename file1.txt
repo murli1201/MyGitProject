@@ -2,9 +2,9 @@ This is file1...!
 
 class myclass{
 
-myMethod(
+static myMethod(
 {
-  System.out.println("Hello World);
+  System.out.println("Hello World....Murli);
 }
 
 
